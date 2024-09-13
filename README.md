@@ -1,4 +1,4 @@
-![homepage image](./images/front_image.png)
+![front_image](./images/front_image.png)
 
 # House Valuation Tool for Home Buyers and Sellers
 
