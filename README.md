@@ -36,7 +36,7 @@ The model also identified the the most correlated factors with the house price.
 
 Some key inisghts are:
 
-* Waterfront houses can substaintially drive the house price up.
+* Being waterfront can substaintially drive the house price up.
 * Renovation can increase the house value.
 * House price is more correlated with the size of the living area than the land size.
  
